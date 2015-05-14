@@ -16,6 +16,7 @@ Coming soon...
 
 - [keku](https://github.com/stevenmiller888/keku) - A template for quickly building Koa + Deku applications with ES6 support.
 - [deku-boilerplate](https://github.com/jkxyz/deku-boilerplate) - Boilerplate for building Deku projects
+- [deku-stub](https://github.com/rockymadden/deku-stub) - Deku stub app with support for JSX, ES6, headless testing, type checking, and more.
 
 ## Documentation
 
